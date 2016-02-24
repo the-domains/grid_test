@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sanctus tests TheGrid]]></title>
         <description><![CDATA[Sanctus tests TheGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grid_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 04:38:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 05:15:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grid_test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ok. This time, let's do a little more.]]></title>
+            <description><![CDATA[<article><h1>Ok. This time, let's do a little more.</h1><p>This is the second post about absolutely nothing on my Grid Beta.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51185fe7-62e2-4678-9cad-831df3091943.jpg"></article>]]></description>
+            <link>https://thegrid.ai/grid_test/ok-this-time-lets-do-a-little-more/index.html</link>
+            <guid isPermaLink="false">824bd009-f7af-4554-83b6-0f1d18e2365d</guid>
+            <pubDate>Wed, 24 Feb 2016 05:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14c4aa9a-296d-4001-bc2b-59b42d2f3af5.jpg">]]></description>
-            <link>undefined6eadeac2-70ca-43fd-a41e-567343cfee84/index.html</link>
+            <link>https://thegrid.ai/grid_test/6eadeac2-70ca-43fd-a41e-567343cfee84/index.html</link>
             <guid isPermaLink="false">6eadeac2-70ca-43fd-a41e-567343cfee84</guid>
             <pubDate>Wed, 24 Feb 2016 04:37:29 GMT</pubDate>
         </item>
