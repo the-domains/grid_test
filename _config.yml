@@ -1,6 +1,6 @@
 name: Grid_Test
 favicon: null
-layout_spectrum: 0.3167119789868593
+layout_spectrum: 1
 typography_spectrum: 0.82651
 title: Sanctus tests TheGrid
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#676767'
+    - '#2c3441'
+    - '#190f06'
+    - '#aeb1d2'
+    - '#fefefd'
   brandStrength: 0.15759982890449464
   lightness: 0.784094532718882
-  saturation: 0.6864200506825
+  saturation: 0.6875
   rhythmicContrast: 0.10962853068485856
 purpose: []
